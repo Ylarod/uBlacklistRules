@@ -1,0 +1,12 @@
+*://*.csdn.net/*
+*://www.lzbxgmjj.com/*
+*://poplive.stream/*
+*://www.ixigua.com/*
+*://zh-hant.hotbak.net/*
+*://www.hotbak.net/*
+*://*/so.php
+*://*/so.php?s=*
+*://*/cha.php?s=*
+*://*/list.php?s=*
+*://*/?s=*
+*://*/so/*
